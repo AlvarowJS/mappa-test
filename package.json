@@ -2,7 +2,7 @@
   "name": "mappa-test",
   "scripts": {
     "dev": "bun run --hot src/index.ts",
-    "test": "node test.js"
+    "test": "bun test.js"
   },
   "dependencies": {
     "hono": "^4.7.4"
